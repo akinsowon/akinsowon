@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @akinsowon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm a junior Data Analyst joining tech about two years ago. Working on four different projects, this is some technology I have worked with(R, Python, SQL, Tableau, Data Visualization and machine-learned). I will be glad 'if I see some senior Data analysts collaborate work with me', am currently learning java programming.
 
-<!---
-akinsowon/akinsowon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+email: arewaodunola@outlook.com
+
