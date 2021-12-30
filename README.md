@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @akinsowon
+- 👀 I’m interested in collab
+- 🌱 I’m currently learning data scientist
+- 💞️ I’m looking to collaborate on data analysis
